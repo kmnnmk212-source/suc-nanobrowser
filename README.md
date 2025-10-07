@@ -1,5 +1,8 @@
 # suc-nanobrowser
 
+Orian (Ollama WebUI) is a Chrome extension
+https://github.com/KarthikeyaKollu/browserAI.01
+
 
 
 حسنًا، بما أنك نفذت:
